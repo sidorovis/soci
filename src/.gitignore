@@ -22,3 +22,4 @@ _build_Debug_32
 _build_Debug_64
 _build_Release_32
 _build_Release_64
+.DS_Store
